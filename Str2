@@ -1,0 +1,40 @@
+<html>
+    <main>
+      <body>
+        <header>
+          <div class="q">
+            <a>Сложные персонаржи.</a>
+            <a>Связки Гаджетов и пасивок.</a>
+            <a>Об авторе.</a>
+          </div>
+        </header>
+        <div>
+        <h1> Связки гаджетов и пасивок</h1>
+        <article class="perc">
+          <p>Эдгар<br><br>Крепкий орешек <br>+<br> жесткая посадка.</p>
+          <img src="https://img.razrisyika.ru/kart/143/568385-edgar-brawl-stars-25.jpg">
+        </article>
+        <article class="perc">
+         <p>Барли<br><br>Липкий сироп <br>+<br> Лекарство.</p>
+          <img src="https://pm1.aminoapps.com/7096/4f4012a806835c72592d1e0a4dc747db77606685r1-1084-898v2_hq.jpg">
+        </article>
+        <article class="perc">
+          <p>Динамайк<br><br>Тяжёлый ранец<br>+<br> Динапрыжок.</p>
+          <img src="https://avatars.mds.yandex.net/get-mpic/3916156/img_id7047699507973994098.jpeg/orig">
+        </article>
+       <article class="perc">
+          <p>Мортис<br><br>Лёгкая лопата <br>+<br>  Жуткая жатва.</p>
+          <img src="https://i.pinimg.com/736x/c9/31/07/c931076bd3aac43ad44a04271ecab9e7.jpg">
+        </article>
+        <article class="perc">
+          <p>СТУ<br><br>Автодром <br>+<br> Без тормозов.</p>
+          <img src="https://escorenews.com/media/news/n17518.jpeg">
+        </article>
+        </div>
+          <footer>
+          <p>Телефон:</p>
+          <p>Наши сотсети:</p>
+        </footer>
+      </body>
+    </main>
+</html>
